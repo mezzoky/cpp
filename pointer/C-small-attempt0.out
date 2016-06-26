@@ -1,0 +1,68 @@
+
+
+static val: 10, addr: 0x7ffe7189e4b8
+heap pointer point_to: 0x7ffe7189e4b8, val: 10, addr: 0x7ffe7189e4e0
+heap pointer point_to: 0x7ffe7189e4bc, val: 20, addr: 0x7ffe7189e4e0
+sizeof bar(8), *bar(4), &bar(8)
+1000 1000 55 
+normal: 10 0x7ffe7189e500 0x7ffe7189e500 
+normal: 20 0x7ffe7189e504 0x7ffe7189e500 
+normal: 30 0x7ffe7189e508 0x7ffe7189e500 
+normal: 40 0x7ffe7189e50c 0x7ffe7189e500 
+normal: 50 0x7ffe7189e510 0x7ffe7189e500 
+reverse: 50 0x7ffe7189e510 0x7ffe7189e500 
+reverse: 40 0x7ffe7189e50c 0x7ffe7189e500 
+reverse: 30 0x7ffe7189e508 0x7ffe7189e500 
+reverse: 20 0x7ffe7189e504 0x7ffe7189e500 
+reverse: 10 0x7ffe7189e500 0x7ffe7189e500 
+end 
+
+0xdbf010 | 11 | 0x7ffe7189e4e8
+3
+
+0
+1
+2
+3
+4
+
+
+1
+2
+3
+4
+5
+
+
+static val: 10, addr: 0x7fffaf4bfe58
+heap pointer point_to: 0x7fffaf4bfe58, val: 10, addr: 0x7fffaf4bfe80
+heap pointer point_to: 0x7fffaf4bfe5c, val: 20, addr: 0x7fffaf4bfe80
+sizeof bar(8), *bar(4), &bar(8)
+1000 1000 55 
+normal: 10 0x7fffaf4bfea0 0x7fffaf4bfea0 
+normal: 20 0x7fffaf4bfea4 0x7fffaf4bfea0 
+normal: 30 0x7fffaf4bfea8 0x7fffaf4bfea0 
+normal: 40 0x7fffaf4bfeac 0x7fffaf4bfea0 
+normal: 50 0x7fffaf4bfeb0 0x7fffaf4bfea0 
+reverse: 50 0x7fffaf4bfeb0 0x7fffaf4bfea0 
+reverse: 40 0x7fffaf4bfeac 0x7fffaf4bfea0 
+reverse: 30 0x7fffaf4bfea8 0x7fffaf4bfea0 
+reverse: 20 0x7fffaf4bfea4 0x7fffaf4bfea0 
+reverse: 10 0x7fffaf4bfea0 0x7fffaf4bfea0 
+end 
+
+0x1c1b010 | 11 | 0x7fffaf4bfe88
+3
+
+0
+1
+2
+3
+4
+
+
+1
+2
+3
+4
+5
